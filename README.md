@@ -1,5 +1,9 @@
 # PulseBoard — Personalized Content Dashboard
 
+**Live Demo:** https://pulseboard-dashboard-dmk6ph3jw-thota-akhira-nandans-projects.vercel.app/
+
+**GitHub:** https://github.com/akhiranandan2003/personalized-content-dashboard
+
 A responsive personalized content dashboard built for the SDE Intern frontend assignment.
 
 ## Stack
